@@ -1,0 +1,15 @@
+__pycache__
+.env
+.history
+.hypothesis/
+build/
+reports/
+node_modules/.bin/nvm
+node_modules/.bin/nvm.cmd
+node_modules/.bin/nvm.ps1
+node_modules/nvm/.npmignore
+node_modules/nvm/README.md
+node_modules/nvm/bin/aliases.json
+node_modules/nvm/bin/nvm
+node_modules/nvm/package.json
+        
